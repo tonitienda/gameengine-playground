@@ -19,7 +19,7 @@ The main goals are in order of importance are:
   github.com/gopxl/pixel
 - [x] Draw the World (black rectangle)
 - [x] Add a circle to the world and render it
-- [ ] Add gravity to the world so the circle needs to fall
+- [x] Add gravity to the world so the circle needs to fall
 - [ ] Add a floor to the world so the circle can bounce
 - [ ] Add a second circle to the world
 - [ ] Play with collisions between both circles
